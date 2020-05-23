@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "p7t86GJKDulzD1wwRxQy77X3aMz3sGvPFiGA+mt29ae8i2iwav8Xw7Au3MNs28tarV1C8XDHLvJyyykBxROSuA==",
+  "success": true,
+  "projectFilePath": "D:\\Курсова робота\\NumberFactsApi\\NumberFactsApi\\NumberFactsApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Анастасія\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

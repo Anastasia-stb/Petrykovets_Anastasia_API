@@ -1,0 +1,86 @@
+D:\visual studio проекты\NumberFactsApi\NumberFactsApi\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\visual studio проекты\NumberFactsApi\NumberFactsApi\bin\Debug\netcoreapp3.1\appsettings.json
+D:\visual studio проекты\NumberFactsApi\NumberFactsApi\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\visual studio проекты\NumberFactsApi\NumberFactsApi\bin\Debug\netcoreapp3.1\NumberFactsApi.exe
+D:\visual studio проекты\NumberFactsApi\NumberFactsApi\bin\Debug\netcoreapp3.1\NumberFactsApi.deps.json
+D:\visual studio проекты\NumberFactsApi\NumberFactsApi\bin\Debug\netcoreapp3.1\NumberFactsApi.runtimeconfig.json
+D:\visual studio проекты\NumberFactsApi\NumberFactsApi\bin\Debug\netcoreapp3.1\NumberFactsApi.runtimeconfig.dev.json
+D:\visual studio проекты\NumberFactsApi\NumberFactsApi\bin\Debug\netcoreapp3.1\NumberFactsApi.dll
+D:\visual studio проекты\NumberFactsApi\NumberFactsApi\bin\Debug\netcoreapp3.1\NumberFactsApi.pdb
+D:\visual studio проекты\NumberFactsApi\NumberFactsApi\obj\Debug\netcoreapp3.1\NumberFactsApi.csprojAssemblyReference.cache
+D:\visual studio проекты\NumberFactsApi\NumberFactsApi\obj\Debug\netcoreapp3.1\NumberFactsApi.AssemblyInfoInputs.cache
+D:\visual studio проекты\NumberFactsApi\NumberFactsApi\obj\Debug\netcoreapp3.1\NumberFactsApi.AssemblyInfo.cs
+D:\visual studio проекты\NumberFactsApi\NumberFactsApi\obj\Debug\netcoreapp3.1\NumberFactsApi.RazorTargetAssemblyInfo.cache
+D:\visual studio проекты\NumberFactsApi\NumberFactsApi\obj\Debug\netcoreapp3.1\staticwebassets\NumberFactsApi.StaticWebAssets.Manifest.cache
+D:\visual studio проекты\NumberFactsApi\NumberFactsApi\obj\Debug\netcoreapp3.1\staticwebassets\NumberFactsApi.StaticWebAssets.xml
+D:\visual studio проекты\NumberFactsApi\NumberFactsApi\obj\Debug\netcoreapp3.1\NumberFactsApi.dll
+D:\visual studio проекты\NumberFactsApi\NumberFactsApi\obj\Debug\netcoreapp3.1\NumberFactsApi.pdb
+D:\visual studio проекты\NumberFactsApi\NumberFactsApi\obj\Debug\netcoreapp3.1\NumberFactsApi.genruntimeconfig.cache
+D:\visual studio проекты\NumberFactsApi\NumberFactsApi\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\visual studio проекты\NumberFactsApi\NumberFactsApi\obj\Debug\netcoreapp3.1\NumberFactsApi.MvcApplicationPartsAssemblyInfo.cache
+D:\visual studio проекты\NumberFactsApi\NumberFactsApi\obj\Debug\netcoreapp3.1\NumberFactsApi.csproj.CopyComplete
+D:\Курсова Апи\NumberFactsApi\NumberFactsApi\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Курсова Апи\NumberFactsApi\NumberFactsApi\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Курсова Апи\NumberFactsApi\NumberFactsApi\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\Курсова Апи\NumberFactsApi\NumberFactsApi\bin\Debug\netcoreapp3.1\NumberFactsApi.exe
+D:\Курсова Апи\NumberFactsApi\NumberFactsApi\bin\Debug\netcoreapp3.1\NumberFactsApi.deps.json
+D:\Курсова Апи\NumberFactsApi\NumberFactsApi\bin\Debug\netcoreapp3.1\NumberFactsApi.runtimeconfig.json
+D:\Курсова Апи\NumberFactsApi\NumberFactsApi\bin\Debug\netcoreapp3.1\NumberFactsApi.runtimeconfig.dev.json
+D:\Курсова Апи\NumberFactsApi\NumberFactsApi\bin\Debug\netcoreapp3.1\NumberFactsApi.dll
+D:\Курсова Апи\NumberFactsApi\NumberFactsApi\bin\Debug\netcoreapp3.1\NumberFactsApi.pdb
+D:\Курсова Апи\NumberFactsApi\NumberFactsApi\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Курсова Апи\NumberFactsApi\NumberFactsApi\obj\Debug\netcoreapp3.1\NumberFactsApi.csprojAssemblyReference.cache
+D:\Курсова Апи\NumberFactsApi\NumberFactsApi\obj\Debug\netcoreapp3.1\NumberFactsApi.csproj.CoreCompileInputs.cache
+D:\Курсова Апи\NumberFactsApi\NumberFactsApi\obj\Debug\netcoreapp3.1\NumberFactsApi.MvcApplicationPartsAssemblyInfo.cache
+D:\Курсова Апи\NumberFactsApi\NumberFactsApi\obj\Debug\netcoreapp3.1\NumberFactsApi.AssemblyInfoInputs.cache
+D:\Курсова Апи\NumberFactsApi\NumberFactsApi\obj\Debug\netcoreapp3.1\NumberFactsApi.AssemblyInfo.cs
+D:\Курсова Апи\NumberFactsApi\NumberFactsApi\obj\Debug\netcoreapp3.1\NumberFactsApi.RazorTargetAssemblyInfo.cache
+D:\Курсова Апи\NumberFactsApi\NumberFactsApi\obj\Debug\netcoreapp3.1\NumberFactsApi.csproj.CopyComplete
+D:\Курсова Апи\NumberFactsApi\NumberFactsApi\obj\Debug\netcoreapp3.1\staticwebassets\NumberFactsApi.StaticWebAssets.Manifest.cache
+D:\Курсова Апи\NumberFactsApi\NumberFactsApi\obj\Debug\netcoreapp3.1\staticwebassets\NumberFactsApi.StaticWebAssets.xml
+D:\Курсова Апи\NumberFactsApi\NumberFactsApi\obj\Debug\netcoreapp3.1\NumberFactsApi.dll
+D:\Курсова Апи\NumberFactsApi\NumberFactsApi\obj\Debug\netcoreapp3.1\NumberFactsApi.pdb
+D:\Курсова Апи\NumberFactsApi\NumberFactsApi\obj\Debug\netcoreapp3.1\NumberFactsApi.genruntimeconfig.cache
+C:\Users\Денис\Desktop\NumberFactsApi\NumberFactsApi\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Денис\Desktop\NumberFactsApi\NumberFactsApi\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Денис\Desktop\NumberFactsApi\NumberFactsApi\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Денис\Desktop\NumberFactsApi\NumberFactsApi\bin\Debug\netcoreapp3.1\NumberFactsApi.exe
+C:\Users\Денис\Desktop\NumberFactsApi\NumberFactsApi\bin\Debug\netcoreapp3.1\NumberFactsApi.deps.json
+C:\Users\Денис\Desktop\NumberFactsApi\NumberFactsApi\bin\Debug\netcoreapp3.1\NumberFactsApi.runtimeconfig.json
+C:\Users\Денис\Desktop\NumberFactsApi\NumberFactsApi\bin\Debug\netcoreapp3.1\NumberFactsApi.runtimeconfig.dev.json
+C:\Users\Денис\Desktop\NumberFactsApi\NumberFactsApi\bin\Debug\netcoreapp3.1\NumberFactsApi.dll
+C:\Users\Денис\Desktop\NumberFactsApi\NumberFactsApi\bin\Debug\netcoreapp3.1\NumberFactsApi.pdb
+C:\Users\Денис\Desktop\NumberFactsApi\NumberFactsApi\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Денис\Desktop\NumberFactsApi\NumberFactsApi\obj\Debug\netcoreapp3.1\NumberFactsApi.csprojAssemblyReference.cache
+C:\Users\Денис\Desktop\NumberFactsApi\NumberFactsApi\obj\Debug\netcoreapp3.1\NumberFactsApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Денис\Desktop\NumberFactsApi\NumberFactsApi\obj\Debug\netcoreapp3.1\NumberFactsApi.AssemblyInfoInputs.cache
+C:\Users\Денис\Desktop\NumberFactsApi\NumberFactsApi\obj\Debug\netcoreapp3.1\NumberFactsApi.AssemblyInfo.cs
+C:\Users\Денис\Desktop\NumberFactsApi\NumberFactsApi\obj\Debug\netcoreapp3.1\NumberFactsApi.RazorTargetAssemblyInfo.cache
+C:\Users\Денис\Desktop\NumberFactsApi\NumberFactsApi\obj\Debug\netcoreapp3.1\NumberFactsApi.csproj.CopyComplete
+C:\Users\Денис\Desktop\NumberFactsApi\NumberFactsApi\obj\Debug\netcoreapp3.1\staticwebassets\NumberFactsApi.StaticWebAssets.Manifest.cache
+C:\Users\Денис\Desktop\NumberFactsApi\NumberFactsApi\obj\Debug\netcoreapp3.1\staticwebassets\NumberFactsApi.StaticWebAssets.xml
+C:\Users\Денис\Desktop\NumberFactsApi\NumberFactsApi\obj\Debug\netcoreapp3.1\NumberFactsApi.dll
+C:\Users\Денис\Desktop\NumberFactsApi\NumberFactsApi\obj\Debug\netcoreapp3.1\NumberFactsApi.pdb
+C:\Users\Денис\Desktop\NumberFactsApi\NumberFactsApi\obj\Debug\netcoreapp3.1\NumberFactsApi.genruntimeconfig.cache
+D:\Курсова робота\NumberFactsApi\NumberFactsApi\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Курсова робота\NumberFactsApi\NumberFactsApi\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Курсова робота\NumberFactsApi\NumberFactsApi\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\Курсова робота\NumberFactsApi\NumberFactsApi\bin\Debug\netcoreapp3.1\NumberFactsApi.exe
+D:\Курсова робота\NumberFactsApi\NumberFactsApi\bin\Debug\netcoreapp3.1\NumberFactsApi.deps.json
+D:\Курсова робота\NumberFactsApi\NumberFactsApi\bin\Debug\netcoreapp3.1\NumberFactsApi.runtimeconfig.json
+D:\Курсова робота\NumberFactsApi\NumberFactsApi\bin\Debug\netcoreapp3.1\NumberFactsApi.runtimeconfig.dev.json
+D:\Курсова робота\NumberFactsApi\NumberFactsApi\bin\Debug\netcoreapp3.1\NumberFactsApi.dll
+D:\Курсова робота\NumberFactsApi\NumberFactsApi\bin\Debug\netcoreapp3.1\NumberFactsApi.pdb
+D:\Курсова робота\NumberFactsApi\NumberFactsApi\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Курсова робота\NumberFactsApi\NumberFactsApi\obj\Debug\netcoreapp3.1\NumberFactsApi.csprojAssemblyReference.cache
+D:\Курсова робота\NumberFactsApi\NumberFactsApi\obj\Debug\netcoreapp3.1\NumberFactsApi.csproj.CoreCompileInputs.cache
+D:\Курсова робота\NumberFactsApi\NumberFactsApi\obj\Debug\netcoreapp3.1\NumberFactsApi.MvcApplicationPartsAssemblyInfo.cache
+D:\Курсова робота\NumberFactsApi\NumberFactsApi\obj\Debug\netcoreapp3.1\NumberFactsApi.AssemblyInfoInputs.cache
+D:\Курсова робота\NumberFactsApi\NumberFactsApi\obj\Debug\netcoreapp3.1\NumberFactsApi.AssemblyInfo.cs
+D:\Курсова робота\NumberFactsApi\NumberFactsApi\obj\Debug\netcoreapp3.1\NumberFactsApi.RazorTargetAssemblyInfo.cache
+D:\Курсова робота\NumberFactsApi\NumberFactsApi\obj\Debug\netcoreapp3.1\NumberFactsApi.csproj.CopyComplete
+D:\Курсова робота\NumberFactsApi\NumberFactsApi\obj\Debug\netcoreapp3.1\staticwebassets\NumberFactsApi.StaticWebAssets.Manifest.cache
+D:\Курсова робота\NumberFactsApi\NumberFactsApi\obj\Debug\netcoreapp3.1\staticwebassets\NumberFactsApi.StaticWebAssets.xml
+D:\Курсова робота\NumberFactsApi\NumberFactsApi\obj\Debug\netcoreapp3.1\NumberFactsApi.dll
+D:\Курсова робота\NumberFactsApi\NumberFactsApi\obj\Debug\netcoreapp3.1\NumberFactsApi.pdb
+D:\Курсова робота\NumberFactsApi\NumberFactsApi\obj\Debug\netcoreapp3.1\NumberFactsApi.genruntimeconfig.cache
